@@ -1,0 +1,45 @@
+
+
+you can generate django project 
+
+Uploading and Importing Photos
+Upload : Photo, video 
+Upload from Device 
+Import from Camera/SD Card
+Automatic Backup
+Upload functionality : add/ remove signals wise (by user)    
+
+Favourites Upload: Photo, video
+Favourites functionality : add/ remove signals wise (by user)    
+
+Archive: Photo, video 
+Archive functionality : add/ remove signals wise (by user)              
+
+Bin : Photo, video 
+Bin functionality : add/Export signals wise (by user)   
+Bin functionality : move/ Export Photo and video
+
+
+Photo Organization
+Create Albums
+Sort and Organize Photos
+Tags and Keywords
+Face Recognition (if available)
+
+albums functionality : add/ remove , update, delete  (by user) signals wise
+
+
+Sharing:
+Share with Contacts
+Create Shared Albums
+Share via Link
+Social Media Integration
+
+Downloads and Export:
+Download Photos
+Export Albums
+Print Photos
+
+Collaboration (if available)
+Collaborative Album Editing
+Commenting and Discussion
